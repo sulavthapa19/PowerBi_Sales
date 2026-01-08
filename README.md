@@ -20,7 +20,7 @@ It is a portfolio project focused on learning Power BI fundamentals.
 - Renamed columns for clarity
 - Corrected data types
 - Removed unnecessary columns
--- Created calculated columns and measures using DAX
+- Created calculated columns and measures using DAX
 ## Reports Created
 - Total sales overview
 - Sales by customer
