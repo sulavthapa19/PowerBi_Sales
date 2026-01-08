@@ -1,7 +1,7 @@
 ## Power BI Sales Report Project
 ## Overview
 This project demonstrates importing CSV files into Power BI, performing basic data cleaning, and creating simple reports.
-It is a beginner-level portfolio project focused on learning Power BI fundamentals.
+It is a portfolio project focused on learning Power BI fundamentals.
 ## Objective
 - Import CSV data into Power BI
 - Clean and format columns
